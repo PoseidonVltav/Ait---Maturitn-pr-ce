@@ -5,7 +5,7 @@ otevřete si složku kam zkopírujete kód z git repozitáře
 krok 2.
 rozkliknete si terminál na danou složku
 krok 3.
-do terminálu vložíte tento command: git clone https://github.com/PoseidonVltav/ait-Maturitni-prace-v2.0.git
+do terminálu vložíte tento command: git clone -b master https://github.com/PoseidonVltav/ait-Maturitni-prace-v2.0.git
 krok 4.
 do terminálu vložíte další command: cd ait-Maturitni-prace-v2.0
 krok 5.
